@@ -73,3 +73,4 @@ Upon emergency signal, all vehicle lights flash red, allowing for emergency vehi
 Transition Delays ensure safety by holding all lights red before changing to the opposite green phase, preventing intersection conflicts.
 Pedestrian Crossing Integration accommodates pedestrians without interrupting the flow of traffic during peak times.
 Emergency Mode allows for emergency priority without disrupting the system’s overall operation post-clearance.
+![alt text](https://github.com/huguetteuwase/Gishushu-Traffic-Lights-State-Diagram/blob/main/tetahuguette%2025513.drawio.png)
